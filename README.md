@@ -8,10 +8,10 @@ This project aims to develop a mobile application where users can get informatio
 ## Screenshots
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-  <img src="screenshots/app4.png" style="width:200px; height:300px; object-fit: cover;" alt="Product Recommendations" />
-  <img src="screenshots/app1.jpg" style="width:200px; height:300px; object-fit: cover;" alt="Login Screen" />
-  <img src="screenshots/app2.jpg" style="width:200px; height:300px; object-fit: cover;" alt="Disease Detection Screen" />
-  <img src="screenshots/app3.jpg" style="width:200px; height:300px; object-fit: cover;" alt="Disease Prediction" />
+  <img src="screenshots/app4.png" style="width:400px; height:500px; object-fit: cover;" alt="Product Recommendations" />
+  <img src="screenshots/app1.jpg" style="width:400px; height:500px; object-fit: cover;" alt="Login Screen" />
+  <img src="screenshots/app2.jpg" style="width:400px; height:500px; object-fit: cover;" alt="Disease Detection Screen" />
+  <img src="screenshots/app3.jpg" style="width:400px; height:500px; object-fit: cover;" alt="Disease Prediction" />
 </div>
 
 
