@@ -14,12 +14,12 @@ This project aims to develop a mobile application where users can get informatio
 
 ### Flutter App
 
-1. Install the Flutter SDK: [Flutter Install](https://flutter.dev/docs/get-started/install)
-2. Go to the `flutter_app` directory:
+1. Install Flutter SDK: [Flutter Install](https://flutter.dev/docs/get-started/install)
+2. `flutter_app` dizinine gidin:
     ```sh
     cd flutter_app
-    ```
-3. Install the necessary packages:
+    ```                           
+3. Install the required packages:
     ```sh
     flutter pub get
     ```
@@ -29,19 +29,20 @@ This project aims to develop a mobile application where users can get informatio
     ```
 
 ### Python API
-1. Install Python and pip.
-2. Go to the `python_api` directory:
+
+1. Install Python and pip. Install the Flutter SDK:
+2. `python_api` dizinine gidin:
     ```sh
-cd python_api
-```
-3. Install the necessary dependencies:
+    cd python_api
+    ```
+3. Install required dependencies:
     ```sh
-pip install -r requirements.txt
-```
+    pip install -r requirements.txt
+    ```
 4. Run the API:
     ```sh
-python app.py
-```
+    python app.py
+    ```
 
 ## Usage
 
