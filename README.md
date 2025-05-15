@@ -4,10 +4,19 @@ This project aims to develop a mobile application where users can get informatio
 
 1. **Dermatology Diagnostic Support System**: To help dermatologists diagnose skin diseases more accurately.
 2. **User Information and Product Recommendation System**: Providing users with information about skin diseases and making appropriate product recommendations.
-## Project Structure
 
-- `deritespit_flutter/`: Flutter mobile app codes.
-- `deripython_api/`: Python API codes.
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/app1.jpg" width="250" alt="App Screen 1">
+  <img src="screenshots/app2.jpg" width="250" alt="App Screen 2">
+  <img src="screenshots/app3.jpg" width="250" alt="App Screen 3">
+</p>
+
+## Proje Yapısı
+
+- `deritespit_flutter/`: Flutter mobil uygulama kodları.
+- `deripython_api/`: Python API kodları.
 
 
 ## Installation
