@@ -8,15 +8,16 @@ This project aims to develop a mobile application where users can get informatio
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/app1.jpg" width="250" alt="App Screen 1">
-  <img src="screenshots/app2.jpg" width="250" alt="App Screen 2">
-  <img src="screenshots/app3.jpg" width="250" alt="App Screen 3">
+  <img src="screenshots/app5.jpg" width="250" alt="Login Screen">
+  <img src="screenshots/app2.jpg" width="250" alt="Disease Detection Screen">
+  <img src="screenshots/app3.jpg" width="250" alt="Disease Prediction">
+  <img src="screenshots/app4.jpg" width="250" alt="Product Recommendations">
 </p>
 
-## Proje Yapısı
+## Project Structure
 
-- `deritespit_flutter/`: Flutter mobil uygulama kodları.
-- `deripython_api/`: Python API kodları.
+- `deritespit_flutter/`: Flutter mobile app codes.
+- `deripython_api/`: Python API codes.
 
 
 ## Installation
