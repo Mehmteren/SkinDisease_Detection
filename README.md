@@ -1,6 +1,6 @@
 # Dermatology Support and Information Mobile Application
 
-This project aims to develop a mobile application where users can get information about skin diseases and facilitate the diagnostic process of dermatologists. The project consists of two main parts:
+This project aims to develop a mobile application where users can get information about skin diseases and facilitate the diagnostic process of dermatologists. The project consists of two main parts :
 
 1. **Dermatology Diagnostic Support System**: To help dermatologists diagnose skin diseases more accurately.
 2. **User Information and Product Recommendation System**: Providing users with information about skin diseases and making appropriate product recommendations.
