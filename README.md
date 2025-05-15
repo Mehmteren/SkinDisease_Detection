@@ -1,49 +1,48 @@
-# Dermatoloji Destek ve Bilgilendirme Mobil Uygulaması
+# Dermatology Support and Information Mobile Application
 
-Bu proje, kullanıcıların cilt hastalıkları hakkında bilgi alabileceği ve dermatologların teşhis sürecini kolaylaştırabilecek bir mobil uygulama geliştirmeyi amaçlamaktadır. Proje, iki ana bölümden oluşmaktadır:
+This project aims to develop a mobile application where users can get information about skin diseases and facilitate the diagnostic process of dermatologists. The project consists of two main parts:
 
-1. **Dermatoloji Teşhis Destek Sistemi**: Dermatologların cilt hastalıklarını daha doğru bir şekilde teşhis edebilmesine yardımcı olmak.
-2. **Kullanıcı Bilgilendirme ve Ürün Öneri Sistemi**: Kullanıcıların cilt hastalıkları hakkında bilgi almasını sağlamak ve uygun ürün önerilerinde bulunmak.
-## Proje Yapısı
+1. **Dermatology Diagnostic Support System**: To help dermatologists diagnose skin diseases more accurately.
+2. **User Information and Product Recommendation System**: Providing users with information about skin diseases and making appropriate product recommendations.
+## Project Structure
 
-- `deritespit_flutter/`: Flutter mobil uygulama kodları.
-- `deripython_api/`: Python API kodları.
+- `deritespit_flutter/`: Flutter mobile app codes.
+- `deripython_api/`: Python API codes.
 
 
-## Kurulum
+## Installation
 
-### Flutter Uygulaması
+### Flutter App
 
-1. Flutter SDK'yı yükleyin: [Flutter Install](https://flutter.dev/docs/get-started/install)
-2. `flutter_app` dizinine gidin:
+1. Install the Flutter SDK: [Flutter Install](https://flutter.dev/docs/get-started/install)
+2. Go to the `flutter_app` directory:
     ```sh
     cd flutter_app
     ```
-3. Gerekli paketleri yükleyin:
+3. Install the necessary packages:
     ```sh
     flutter pub get
     ```
-4. Uygulamayı çalıştırın:
+4. Run the application:
     ```sh
     flutter run
     ```
 
 ### Python API
-
-1. Python ve pip'i yükleyin.
-2. `python_api` dizinine gidin:
+1. Install Python and pip.
+2. Go to the `python_api` directory:
     ```sh
-    cd python_api
-    ```
-3. Gerekli bağımlılıkları yükleyin:
+cd python_api
+```
+3. Install the necessary dependencies:
     ```sh
-    pip install -r requirements.txt
-    ```
-4. API'yi çalıştırın:
+pip install -r requirements.txt
+```
+4. Run the API:
     ```sh
-    python app.py
-    ```
+python app.py
+```
 
-## Kullanım
+## Usage
 
-Uygulama açıldığında, kullanıcı cilt hastalıklarını tanımlamak için bir fotoğraf çekebilir veya mevcut bir fotoğrafı yükleyebilir.yüklenen fotoğraf remove.bg web sitesinde api bağlantısı ile arka görselin arka planında bulunan gürültüleri temizler ve ve bu şekilde hastalığın maksimum doğruluk oranı ile deri hastalığı tespitini gerçekleştirmeyi hedefler. Kullanıcı ayrıca tahmin edilen hastalık hakkında detaylı bilgi alır ve tespit edilen hastalığın önerilen ürünleri görüntler ve link bağlantısı ile ürünlere ulaşabilir.
+When the application is opened, the user can take a photo or upload an existing photo to identify skin diseases. The uploaded photo is displayed on the remove.bg website with an API link to remove.bg, which removes the noise in the background of the background image and thus aims to detect the skin disease with maximum accuracy. The user also receives detailed information about the predicted disease and can view the recommended products for the detected disease and access the products via a link.
