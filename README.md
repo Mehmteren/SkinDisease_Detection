@@ -8,10 +8,10 @@ This project aims to develop a mobile application where users can get informatio
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/app4.jpg" width="250" alt="Login Screen">
+  <img src="screenshots/app1.jpg" width="250" alt="Login Screen">
   <img src="screenshots/app2.jpg" width="250" alt="Disease Detection Screen">
   <img src="screenshots/app3.jpg" width="250" alt="Disease Prediction">
-  <img src="screenshots/app1.jpg" width="250" alt="Product Recommendations">
+  <img src="screenshots/app4.jpg" width="250" alt="Product Recommendations">
 </p>
 
 ## Project Structure
